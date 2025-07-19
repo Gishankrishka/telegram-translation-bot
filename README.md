@@ -40,9 +40,21 @@
 
 <div align="center">
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/your-template)
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+## One-Click Deployment
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/github/Gishankrishka/telegram-translation-bot)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gishankrishka/telegram-translation-bot)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Gishankrishka/telegram-translation-bot)
+
+## Additional Deployment Options
+
+### Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Gishankrishka/telegram-translation-bot)
+
+### Netlify
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Gishankrishka/telegram-translation-bot)
 
 </div>
 
