@@ -92,11 +92,11 @@ Before getting started, make sure you have:
 4. Fill in the application details
 5. 📝 Note your `API_ID` and `API_HASH`
 
-### 📢 Step 3: Configure Source Channel
+### 📢 Step 3: Configure Destination Chat
 
-1. Add your bot as an **administrator** to the source channel
+1. Add your bot as an **administrator** to the source chat
 2. Give it permission to read messages
-3. Forward any message from the channel to [@userinfobot](https://t.me/userinfobot)
+3. add [@MissRose_bot](https://t.me/MissRose_bot) to the chat and send /id
 4. 📝 Copy the Channel ID (format: `-100xxxxxxxxxx`)
 
 ### 🌐 Step 4: Choose Target Language
@@ -135,7 +135,7 @@ class Config:
     API_HASH = "YOUR_API_HASH_HERE"
     
     # Channel Configuration
-    SOURCE_CHANNEL = -1001234567890  # Your source channel ID
+    SOURCE_CHANNEL = -1001234567890  # Your destination channel ID
     
     # Translation Configuration
     LANGUAGE_CODE = "en"  # Target language (ISO 639-1)
