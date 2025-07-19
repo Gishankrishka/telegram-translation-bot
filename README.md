@@ -30,7 +30,7 @@
 | 🌍 **Multi-language Support** | Supports 100+ languages with ISO codes |
 | ⚡ **Cloud Deployment** | Easy deployment on Railway, Heroku, or any VPS |
 | 🔒 **Secure & Private** | Your credentials stay safe with you |
-| 📱 **Mobile Friendly** | Works seamlessly on all Telegram clients |
+| 📱 **Friendly** | Works seamlessly on all Telegram clients |
 
 </div>
 
