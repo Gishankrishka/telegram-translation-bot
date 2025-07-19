@@ -1,0 +1,21 @@
+services:
+  - type: worker
+    name: translation-bot
+    env: python
+    plan: free
+    runtime: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python -m Bot"
+    envVars:
+      - key: BOT_TOKEN
+        value: "your-bot-token"
+      - key: API_ID
+        value: "your-api-id"
+      - key: API_HASH
+        value: "your-api-hash"
+      - key: SOURCE_CHANNEL
+        value: "-100xxxxxxxxxx"
+      - key: LANGUAGE_CODE
+        value: "si"
+      - key: GEMINI_API_KEY
+        value: "your-gemini-api-key"
