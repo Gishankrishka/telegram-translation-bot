@@ -166,13 +166,13 @@ class Config:
 
 3. **Configure your settings**
    ```bash
-   cp config.example.py config.py
-   # Edit config.py with your credentials
+   cp .env.example. .env
+   # Edit .env with your credentials
    ```
 
 4. **Run the bot**
    ```bash
-   python main.py
+   python3 -m Bot
    ```
 
 ---
