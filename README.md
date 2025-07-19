@@ -42,7 +42,7 @@
 
 ## One-Click Deployment
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/github/Gishankrishka/telegram-translation-bot)
+<!---[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/github/Gishankrishka/telegram-translation-bot) -->
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gishankrishka/telegram-translation-bot)
 
