@@ -274,7 +274,7 @@ Need help? We're here for you!
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/telegram-translation-bot&type=Date)](https://star-history.com/#yourusername/telegram-translation-bot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Gishankrishka/telegram-translation-bot&type=Date)](https://star-history.com/#yourusername/telegram-translation-bot&Date)
 
 </div>
 
@@ -295,8 +295,8 @@ Need help? We're here for you!
 
 **⭐ Star this repo if you found it helpful! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/telegram-translation-bot?style=social)](https://github.com/yourusername/telegram-translation-bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/telegram-translation-bot?style=social)](https://github.com/yourusername/telegram-translation-bot/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/GishanKrishka/telegram-translation-bot?style=social)](https://github.com/yourusername/telegram-translation-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gishankrishka/telegram-translation-bot?style=social)](https://github.com/yourusername/telegram-translation-bot/network/members)
 
 Made with ❤️ by [Gishan Krishka](https://github.com/GishanKrishka)
 
