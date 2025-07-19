@@ -1,0 +1,45 @@
+{
+  "name": "Python Translation Bot",
+  "description": "A Telegram bot that auto-translates messages using Google's Gemini AI.",
+  "repository": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME",
+  "keywords": ["telegram", "bot", "translation", "gemini", "pyrogram", "Cyberline"],
+  "stack": "heroku-22",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram bot token from @BotFather",
+      "required": true
+    },
+    "API_ID": {
+      "description": "Your Telegram API ID from my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your Telegram API Hash from my.telegram.org",
+      "required": true
+    },
+    "SOURCE_CHANNEL": {
+      "description": "The Telegram source channel ID (e.g., -100xxxxxxxxxx)",
+      "required": true
+    },
+    "LANGUAGE_CODE": {
+      "description": "Target language code (e.g., en, si, ta)",
+      "default": "si",
+      "required": true
+    },
+    "GEMINI_API_KEY": {
+      "description": "Your Google Gemini API Key from https://aistudio.google.com/app/apikey",
+      "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

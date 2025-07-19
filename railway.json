@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "PYTHON_VERSION": "3.10"
+    }
+  },
+  "deploy": {
+    "startCommand": "python -m Bot"
+  }
+}
